@@ -28,6 +28,8 @@ public class HotelReservation extends addHotel {
     public static void main(String[] args) {
         System.out.println("-----Welcome to Hotel Reservation Program-----");
         HotelReservation.addHotel("Sandalwood ",250);
+        HotelReservation.addHotel1("Lakewood ",350);
+        HotelReservation.addHotel2("Hotel Prince ",500);
     }
 
 }
